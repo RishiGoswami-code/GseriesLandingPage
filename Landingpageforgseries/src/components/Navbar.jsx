@@ -34,7 +34,7 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="relative w-full px-20 rounded-lg">
+    <nav className="relative w-full px-0 lg:px-20 rounded-lg">
       <CardNav
         logo={logo}
         logoAlt="Company Logo"
